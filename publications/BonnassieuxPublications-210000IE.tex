@@ -1,0 +1,167 @@
+\documentclass[11pt,a4paper,notitlepage]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[top=2cm,bottom=2cm]{geometry}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage[divpsnames]{xcolor}
+\usepackage{subcaption}
+\usepackage{hyperref}
+%\usepackage{aas_macros}
+\usepackage{natbib, twoopt}
+\usepackage{booktabs}
+\usepackage{floatrow}
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+\usepackage{listings}
+\usepackage{aas_macros}
+\usepackage[capitalise,nameinlink]{cleveref}
+%\lstset{language=C,
+%  basicstyle=\footnotesize,
+%  keywordstyle=\color{blue},
+%  commentstyle=\color{green},
+%  numberstyle=\color{magenta},
+%  stringstyle=\color{blue},
+%  identifierstyle=\color{black}
+%}
+\usepackage{color}
+\usepackage{float}
+\restylefloat{figure}
+\usepackage{changepage}
+\usepackage[titles]{tocloft}
+\usepackage[justification=centering,font=small,labelsep=period,textfont=it,labelfont=bf]{caption}
+\usepackage{url}
+\newcommand{\Hrule}{\rule{\linewidth}{0.4mm}}
+%\usepackage[french]{babel}
+%\interfootnotelinepenalty=10000  % So that long footnotes bring their paragraph with them on next page
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=cyan}
+\def\pg{\paragraph{}}
+
+
+\makeatletter
+\newcommandtwoopt{\citeads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citealp[#1][#2]{#3}}}
+\newcommandtwoopt{\citepads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citep[#1][#2]{#3}}}
+\newcommandtwoopt{\citetads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citet[#1][#2]{#3}}}
+\newcommandtwoopt{\citeyearads}[3][][]%
+{\href{http://adsabs.harvard.edu/abs/#3}
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citeyear[#1][#2]{#3}}}
+\makeatother
+
+
+\author{Etienne Bonnassieux}
+\title{Publications \& Communications}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{First-Author Refereed Papers}
+
+\begin{tabular}{r|p{12.5cm}}
+%	\textsc{Jul 2021} & in prep. (will submit to Astronomy \& Astrophysics, A\&A - Impact Factor 5.636): Resolved Spectral Properties of 3C295 at LOFAR Frequencies\\
+%	\multicolumn{2}{c}{} \\
+	
+	\textsc{Sep 2021} & Spectral analysis of spatially-resolved 3C295 (sub-arcsecond resolution) with the International LOFAR Telescope \citep{2021arXiv210807294B}\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{May 2020} & Decoherence in LOFAR-VLBI beamforming \citep{2020AA...637A..51B}\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jul 2018} & The variance of radio interferometric calibration solutions. Quality-based weighting schemes \citep{2018AA...615A..66B}\\
+	\multicolumn{2}{c}{} \\
+	
+	%------------------------------------------------
+\end{tabular}
+
+
+\section{Other Refereed Papers}
+
+
+
+\begin{tabular}{r|p{12.5cm}}
+	
+	\textsc{Aug 2021} & A\&A: The resolved jet of 3C 273 at 150 MHz (accepted) \\
+	\multicolumn{2}{c}{} \\
+
+	\multicolumn{2}{c}{} \\	\textsc{Aug 2021} & A\&A: Sub-arcsecond imaging with the International LOFAR Telescope I. Foundational calibration strategy and pipeline (accepted) \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jun 2021} & A\&A: Constraining the AGN duty cycle in the cool-core cluster MS 0735.6+7421 with LOFAR data
+	 \citep{2021AA...650A.170B} \\
+	\multicolumn{2}{c}{} \\
+
+
+	\textsc{Feb 2021} & A\&A: Physical insights from the spectrum of the radio halo in MACS J0717.5+3745 \citep{2021AA...646A.135R} \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2021} & A\&A: Understanding the radio relic emission in the galaxy cluster MACS J0717.5+3745: Spectral analysis \citep{2021AA...646A..56R} \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jan 2021} & ApJ: The Coma Cluster at LOw Frequency ARray Frequencies. I. Insights into Particle Acceleration Mechanisms in the Radio Bridge \citep{2021ApJ...907...32B} \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Nov 2020} & subm. : LOFAR observations of galaxy clusters in HETDEX \citep{2020arXiv201102387V} \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Nov 2020} & A\&A. : A perfect power-law spectrum even at the highest frequencies: The Toothbrush relic\citep{2020AA...642L..13R} \\
+	\multicolumn{2}{c}{} \\
+%	
+%	\textsc{Sep 2020} &VizieR : VizieR Online Data Catalog: The Toothbrush relic 14.25GHz image c\citep{2020yCat..36429013R} \\
+%	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2019} & A\&A. : The LOFAR Two-metre Sky Survey. II. First data release \citep{2019AA...622A...1S} \\
+	\multicolumn{2}{c}{} \\
+	
+	%------------------------------------------------
+\end{tabular}
+
+
+\section{Posters}
+
+\begin{tabular}{r|p{12.5cm}}
+	\textsc{Jun 2017} & \href{https://www.radionet-org.eu/radionet/the-broad-impact-of-low-frequency-observing/}{Broad Impact of Low-Frequency Observing}. Poster on quality-based weighting scheme.\\
+	\multicolumn{2}{c}{} \\
+\end{tabular}
+
+\section{Conferences \& Workshops}
+
+\begin{tabular}{r|p{12.5cm}}
+	\textsc{Mar 2021} & \href{https://www.astron.nl/lofarschool2021/}{6th LOFAR data school}. Talk on direction-dependent calibration, organised hands-on workshop.\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Mar 2021} & \href{https://sites.google.com/inaf.it/rgcw-meeting/home-page}{RGCW Meeting}. Gave talk on progress of NenuFAR Cosmic Filaments \& Magnetic Fields Pilot Surveys.\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Apr 2018} & Invited lecturer at \href{https://indico.ced.inaf.it/event/9/}{the first Italian LOFAR School}. Organised a hands-on workshop on direction-dependent calibration, and helped tutor in the workshops of colleagues.\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Sep 2018} & \href{https://www.astron.nl/lofarschool2018/}{5th LOFAR data school}. Talk on direction-dependent calibration, tutoring hands-on tutorial.\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Dec 2017} & \href{http://www.physics.usyd.edu.au/salf_iv/}{SALF IV}. Gave talk on quality-based weighting schemes.\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Oct 2016} & \href{http://www.ast.uct.ac.za/ast/meetings-workshops/3gc4}{3GC4}. Organised hands-on workshop on \href{https://github.com/ebonnassieux/Teaching/blob/master/PyrapTutorial.ipynb}{using pyrap}, a python wrapper for casacore. This allows scientists to interact with interferometric datasets in an efficient manner.\\
+	\multicolumn{2}{c}{} \\
+	
+\end{tabular}
+
+
+
+
+
+\bibliographystyle{aa}
+\bibliography{biblio}
+
+
+\end{document}
