@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{13}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Biava} {et~al.}(2021){Biava}, {Brienza}, {Bonafede}, {Gitti},
@@ -18,17 +18,23 @@
 {Bonnassieux}, E., {Edge}, A., {Morabito}, L., \& {Bonafede}, A. 2020, \aap,
   637, A51
 
-\bibitem[{{Bonnassieux} {et~al.}(2021){Bonnassieux}, {Sweijen}, {Brienza},
-  {Rajpurohit}, {Riseley}, {Bonafede}, {Jackson}, {Morabito}, {Brunetti},
-  {Harwood}, {Kappes}, {Rottgering}, {Tasse}, \& {van
+\bibitem[{{Bonnassieux} {et~al.}(2021{\natexlab{a}}){Bonnassieux}, {Sweijen},
+  {Brienza}, {Rajpurohit}, {Riseley}, {Bonafede}, {Jackson}, {Morabito},
+  {Brunetti}, {Harwood}, {Kappes}, {Rottgering}, {Tasse}, \& {van
   Weeren}}]{2021arXiv210807294B}
-{Bonnassieux}, E., {Sweijen}, F., {Brienza}, M., {et~al.} 2021, arXiv e-prints,
-  arXiv:2108.07294
+{Bonnassieux}, E., {Sweijen}, F., {Brienza}, M., {et~al.} 2021{\natexlab{a}},
+  arXiv e-prints, arXiv:2108.07294
 
 \bibitem[{{Bonnassieux} {et~al.}(2018){Bonnassieux}, {Tasse}, {Smirnov}, \&
   {Zarka}}]{2018AA...615A..66B}
 {Bonnassieux}, E., {Tasse}, C., {Smirnov}, O., \& {Zarka}, P. 2018, \aap, 615,
   A66
+
+\bibitem[{{Bonnassieux} {et~al.}(2021{\natexlab{b}}){Bonnassieux}, {Tremou},
+  {Girard}, {Loh}, {Vacca}, {Corbel}, {Cecconi}, {Grie{\ss}meier}, {Koopmans},
+  {Tagger}, {Theureau}, \& {Zarka}}]{2021Galax...9..105B}
+{Bonnassieux}, E., {Tremou}, E., {Girard}, J.~N., {et~al.} 2021{\natexlab{b}},
+  Galaxies, 9, 105
 
 \bibitem[{{Rajpurohit} {et~al.}(2021{\natexlab{a}}){Rajpurohit}, {Brunetti},
   {Bonafede}, {van Weeren}, {Botteon}, {Vazza}, {Hoeft}, {Riseley},
@@ -38,19 +44,34 @@
 {Rajpurohit}, K., {Brunetti}, G., {Bonafede}, A., {et~al.} 2021{\natexlab{a}},
   \aap, 646, A135
 
+\bibitem[{{Rajpurohit} {et~al.}(2022){Rajpurohit}, {Hoeft}, {Wittor}, {van
+  Weeren}, {Vazza}, {Rudnick}, {Rajpurohit}, {Forman}, {Riseley}, {Brienza},
+  {Bonafede}, {Rajpurohit}, {Dom{\'\i}nguez-Fern{\'a}ndez}, {Eilek},
+  {Bonnassieux}, {Br{\"u}ggen}, {Loi}, {R{\"o}ttgering}, {Drabent},
+  {Locatelli}, {Botteon}, {Brunetti}, \& {Clarke}}]{2022AA...657A...2R}
+{Rajpurohit}, K., {Hoeft}, M., {Wittor}, D., {et~al.} 2022, \aap, 657, A2
+
 \bibitem[{{Rajpurohit} {et~al.}(2020){Rajpurohit}, {Vazza}, {Hoeft}, {Loi},
   {Beck}, {Vacca}, {Kierdorf}, {van Weeren}, {Wittor}, {Govoni}, {Murgia},
   {Riseley}, {Locatelli}, {Drabent}, \& {Bonnassieux}}]{2020AA...642L..13R}
 {Rajpurohit}, K., {Vazza}, F., {Hoeft}, M., {et~al.} 2020, \aap, 642, L13
 
-\bibitem[{{Rajpurohit} {et~al.}(2021{\natexlab{b}}){Rajpurohit}, {Wittor}, {van
+\bibitem[{{Rajpurohit} {et~al.}(2021{\natexlab{b}}){Rajpurohit}, {Vazza}, {van
+  Weeren}, {Hoeft}, {Brienza}, {Bonnassieux}, {Riseley}, {Brunetti},
+  {Bonafede}, {Br{\"u}ggen}, {Formann}, {Rajpurohit}, {R{\"o}ttgering},
+  {Drabent}, {Dom{\'\i}nguez-Fern{\'a}ndez}, {Wittor}, \&
+  {Andrade-Santos}}]{2021AA...654A..41R}
+{Rajpurohit}, K., {Vazza}, F., {van Weeren}, R.~J., {et~al.}
+  2021{\natexlab{b}}, \aap, 654, A41
+
+\bibitem[{{Rajpurohit} {et~al.}(2021{\natexlab{c}}){Rajpurohit}, {Wittor}, {van
   Weeren}, {Vazza}, {Hoeft}, {Rudnick}, {Locatelli}, {Eilek}, {Forman},
   {Bonafede}, {Bonnassieux}, {Riseley}, {Brienza}, {Brunetti}, {Br{\"u}ggen},
   {Loi}, {Rajpurohit}, {R{\"o}ttgering}, {Botteon}, {Clarke}, {Drabent},
   {Dom{\'\i}nguez-Fern{\'a}ndez}, {Di Gennaro}, \&
   {Gastaldello}}]{2021AA...646A..56R}
 {Rajpurohit}, K., {Wittor}, D., {van Weeren}, R.~J., {et~al.}
-  2021{\natexlab{b}}, \aap, 646, A56
+  2021{\natexlab{c}}, \aap, 646, A56
 
 \bibitem[{{Shimwell} {et~al.}(2019){Shimwell}, {Tasse}, {Hardcastle}, {Mechev},
   {Williams}, {Best}, {R{\"o}ttgering}, {Callingham}, {Dijkema}, {de Gasperin},
@@ -73,12 +94,12 @@
 {Shimwell}, T.~W., {Tasse}, C., {Hardcastle}, M.~J., {et~al.} 2019, \aap, 622,
   A1
 
-\bibitem[{{van Weeren} {et~al.}(2020){van Weeren}, {Shimwell}, {Botteon},
+\bibitem[{{van Weeren} {et~al.}(2021){van Weeren}, {Shimwell}, {Botteon},
   {Brunetti}, {Br{\"u}ggen}, {Boxelaar}, {Cassano}, {Di Gennaro},
   {Andrade-Santos}, {Bonnassieux}, {Bonafede}, {Cuciti}, {Dallacasa}, {de
   Gasperin}, {Gastaldello}, {Hardcastle}, {Hoeft}, {Kraft}, {Mandal},
-  {Rossetti}, {R{\"o}ttgering}, {Tasse}, \& {Wilber}}]{2020arXiv201102387V}
-{van Weeren}, R.~J., {Shimwell}, T.~W., {Botteon}, A., {et~al.} 2020, arXiv
-  e-prints, arXiv:2011.02387
+  {Rossetti}, {R{\"o}ttgering}, {Tasse}, \& {Wilber}}]{2021AA...651A.115V}
+{van Weeren}, R.~J., {Shimwell}, T.~W., {Botteon}, A., {et~al.} 2021, \aap,
+  651, A115
 
 \end{thebibliography}

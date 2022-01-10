@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: BonnassieuxPublications.aux
+The style file: aa.bst
+Database file #1: biblio.bib
+Repeated entry---line 127 of file biblio.bib
+ : @article{2022AA...657A...2R
+ :                            ,
+I'm skipping whatever remains of this entry
+You've used 13 entries,
+            2947 wiz_defined-function locations,
+            730 strings with 12416 characters,
+and the built_in function-call counts, 17865 in all, are:
+= -- 1269
+> -- 2676
+< -- 0
++ -- 898
+- -- 882
+* -- 1784
+:= -- 3380
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 346
+chr.to.int$ -- 10
+cite$ -- 13
+duplicate$ -- 236
+empty$ -- 352
+format.name$ -- 910
+if$ -- 3454
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 13
+newline$ -- 43
+num.names$ -- 52
+pop$ -- 337
+preamble$ -- 1
+purify$ -- 346
+quote$ -- 0
+skip$ -- 214
+stack$ -- 0
+substring$ -- 312
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 117
+warning$ -- 0
+while$ -- 52
+width$ -- 0
+write$ -- 132
+(There was 1 error message)
