@@ -1,0 +1,274 @@
+\documentclass[11pt,a4paper,notitlepage]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[top=1cm,bottom=1cm,margin=1cm]{geometry}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage[divpsnames]{xcolor}
+\usepackage{subcaption}
+\usepackage{hyperref}
+%\usepackage{aas_macros}
+\usepackage{natbib, twoopt}
+\usepackage{booktabs}
+\usepackage{floatrow}
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+\usepackage{listings}
+\usepackage{aas_macros}
+\usepackage[capitalise,nameinlink]{cleveref}
+%\lstset{language=C,
+%  basicstyle=\footnotesize,
+%  keywordstyle=\color{blue},
+%  commentstyle=\color{green},
+%  numberstyle=\color{magenta},
+%  stringstyle=\color{blue},
+%  identifierstyle=\color{black}
+%}
+\usepackage{color}
+\usepackage{float}
+\restylefloat{figure}
+\usepackage{changepage}
+\usepackage[titles]{tocloft}
+\usepackage[justification=centering,font=small,labelsep=period,textfont=it,labelfont=bf]{caption}
+\usepackage{url}
+\newcommand{\Hrule}{\rule{\linewidth}{0.4mm}}
+%\usepackage[french]{babel}
+%\interfootnotelinepenalty=10000  % So that long footnotes bring their paragraph with them on next page
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=cyan}
+\def\pg{\paragraph{}}
+
+
+\makeatletter
+\newcommandtwoopt{\citeads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citealp[#1][#2]{#3}}}
+\newcommandtwoopt{\citepads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citep[#1][#2]{#3}}}
+\newcommandtwoopt{\citetads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citet[#1][#2]{#3}}}
+\newcommandtwoopt{\citeyearads}[3][][]%
+{\href{http://adsabs.harvard.edu/abs/#3}
+	{\def\hyper@linkstart##1##2{}%
+		\let\hyper@linkend\@empty\citeyear[#1][#2]{#3}}}
+\makeatother
+
+
+\usepackage{multicol}
+\usepackage{setspace}
+\usepackage{natbib, twoopt}
+
+
+
+\author{Etienne Bonnassieux}
+\title{Publications \& Communications}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{Papiers premier auteur dans revues \`a comit\'e de lecture}
+
+\begin{tabular}{r|p{16.5cm}}
+	
+\textsc{Feb 2022} & \textbf{Spectral analysis of spatially-resolved 3C295 (sub-arcsecond resolution) with the International LOFAR Telescope}. Etienne Bonnassieux, Frits Sweijen, et al. Feb. 2022, A\&A, 658, A10\\
+\multicolumn{2}{c}{} \\
+
+
+\textsc{Nov 2021} & \textbf{Pilot Study and Early Results of the Cosmic Filaments and Magnetism Survey with Nenufar: The Coma Cluster Field}. Etienne Bonnassieux, Evangelia Tremou, et al. Nov. 2021, Galaxies, 9, 105\\
+\multicolumn{2}{c}{} \\
+
+\textsc{May 2020} & \textbf{Decoherence in LOFAR-VLBI beamforming}. Etienne Bonnassieux, Alastair Edge, et al. May 2020, A\&A, 637, A51\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Jul 2018} & \textbf{The variance of radio interferometric calibration solutions. Quality-based weighting schemes}. Etienne Bonnassieux, Cyril Tasse, et al. Jul. 2018, A\&A, 615, A66\\
+\multicolumn{2}{c}{} \\
+	
+	%------------------------------------------------
+\end{tabular}
+
+
+\section{Autres papiers de revues \`a comit\'e de lecture}
+
+
+
+\begin{tabular}{r|p{16.5cm}}
+
+	\textsc{Oct 2023} & \textbf{A MeerKAT-meets-LOFAR study of Abell 1413: a moderately disturbed non-cool-core cluster hosting a 500 kpc 'mini'-halo }. C. J. Riseley, N. Biava, et al. Oct. 2023, MNRAS, 524, 6052 \\
+\multicolumn{2}{c}{} \\
+
+	\textsc{Jan 2023} & \textbf{Deep low-frequency radio observations of Abell 2256. II. The ultra-steep spectrum radio halo}. K. Rajpurohit, E. Osinga, et al. Jan. 2023, A\&A, 669, A1 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{Sep 2022} & \textbf{Radio fossils, relics, and haloes in Abell 3266: cluster archaeology with ASKAP-EMU and the ATCA}. C. J. Riseley, E. Bonnassieux, et al. Sep. 2022, MNRAS, 515, 1871\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Sep 2022} & \textbf{Diffuse radio emission from non-Planck galaxy clusters in the LoTSS-DR2 fields}. D. N. Hoang, M. Brüggen, et al. Sep. 2022, A\&A, 665, A60 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{Jul 2022} & \textbf{The Coma Cluster at LOFAR Frequencies. II. The Halo, Relic, and a New Accretion Relic}. A. Bonafede, G. Brunetti, et al. Jul. 2022, ApJ, 933, 218 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{Jul 2022} & \textbf{Subarcsecond view on the high-redshift blazar GB 1508+5714 by the International LOFAR Telescope}. A. Kappes, P. R. Burd, et al. Jul. 2022, A\&A, 663, A44 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{May 2022} & \textbf{A MeerKAT-meets-LOFAR study of MS 1455.0 + 2232: a 590 kiloparsec 'mini'-halo in a sloshing cool-core cluster}. C. J. Riseley, K. Rajpurohit, et al. May 2022, MNRAS, 512, 4210 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{May 2022} & \textbf{The galaxy group NGC 507: Newly detected AGN remnant plasma transported by sloshing}. M. Brienza, L. Lovisari, et al. May 2022, A\&A, 661, A92 \\
+\multicolumn{2}{c}{} \\
+
+\textsc{Apr 2022} & \textbf{Spectral study of the diffuse synchrotron source in the galaxy cluster Abell 523}. Valentina Vacca, Timothy Shimwell, et al. Apr. 2022, MNRAS, 511, 3389\\
+\multicolumn{2}{c}{} \\
+
+	%------------------------------------------------
+\end{tabular}
+
+
+\begin{tabular}{r|p{16.5cm}}
+
+\textsc{Mar 2022} & \textbf{Deep Low-frequency Radio Observations of A2256. I. The Filamentary Radio Relic}. K. Rajpurohit, R. J. van Weeren, et al. Mar. 2022, ApJ, 927, 80 \\
+\multicolumn{2}{c}{} \\
+
+	
+	\textsc{Mar 2022} & \textbf{The LOFAR Two-metre Sky Survey. V. Second data release}.T. W. Shimwell, M. J. Hardcastle, et al. Mar. 2022, A\&A, 659, A1 \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2022} & \textbf{The resolved jet of 3C 273 at 150 MHz. Sub-arcsecond imaging with the LOFAR international baselines}. J. J. Harwood, S. Mooney, et al. Feb. 2022, A\&A, 658, A8 \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2022} & \textbf{Sub-arcsecond imaging with the International LOFAR Telescope. I. Foundational calibration strategy and pipeline}. L. K. Morabito, N. J. Jackson, et al. Feb. 2022, A\&A, 658, A1\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jan 2022} & \textbf{Turbulent magnetic fields in the merging galaxy cluster MACS J0717.5+3745}. K. Rajpurohit, M. Hoeft, et al. Jan. 2022, A\&A, 657, A2 \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Oct 2021} & \textbf{Dissecting nonthermal emission in the complex multiple-merger galaxy cluster Abell 2744: Radio and X-ray analysis}. K. Rajpurohit, F. Vazza, et al. Oct. 2021, A\&A, 654, A41\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jun 2021} & \textbf{Constraining the AGN duty cycle in the cool-core cluster MS 0735.6+7421 with LOFAR data.}  Nadia Biava, Marisa Brienza, et al. Jun. 2021, A\&A, 650, A170 \\
+	\multicolumn{2}{c}{} \\
+	
+	
+	\textsc{Feb 2021} & \textbf{Physical insights from the spectrum of the radio halo in MACS J0717.5+3745}. K. Rajpurohit, G. Brunetti, et al. Feb. 2021, A\&A, 646, A135 \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2021} & \textbf{Understanding the radio relic emission in the galaxy cluster MACS J0717.5+3745: Spectral analysis}. K. Rajpurohit, D. Wittor, et al. Feb. 2021, A\&A, 646, A56 \\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Jan 2021} & \textbf{The Coma Cluster at LOw Frequency ARray Frequencies. I. Insights into Particle Acceleration Mechanisms in the Radio Bridge}. A. Bonafede, G. Brunetti, et al. Jan. 2021, ApJ, 907, 32 \\
+	\multicolumn{2}{c}{} \\
+	
+	
+	\textsc{Jul 2021} & \textbf{LOFAR observations of galaxy clusters in HETDEX. Extraction and self-calibration of individual LOFAR targets}. R. J. van Weeren, T. W. Shimwell, et al. Jul. 2021, A\&A, 651, A115\\
+	\multicolumn{2}{c}{} \\
+	
+	\textsc{Nov 2020} & \textbf{A perfect power-law spectrum even at the highest frequencies: The Toothbrush}. K. Rajpurohit, F. Vazza, et al. Oct. 2020, A\&A, 642, L13 \\
+	\multicolumn{2}{c}{} \\
+	%	
+	%	\textsc{Sep 2020} &VizieR : VizieR Online Data Catalog: The Toothbrush relic 14.25GHz image c\citep{2020yCat..36429013R} \\
+	%	\multicolumn{2}{c}{} \\
+	
+	\textsc{Feb 2019} & \textbf{The LOFAR Two-metre Sky Survey. II. First data release}. T. W. Shimwell, C. Tasse, et al. Feb. 2019, A\&A, 622, A1\\
+	\multicolumn{2}{c}{} \\
+
+\end{tabular}
+
+
+\section{Papiers publi\'es sans comit\'e de lecture}
+
+\begin{tabular}{r|p{16.5cm}}
+	\textsc{Nov 2023} & \textbf{A Collection of German Science Interests in the Next Generation Very Large Array}. M. Kadler, D. A. Riechers, et al. Nov. 2023, arXiv e-prints, arXiv:2311.10056\\
+	\multicolumn{2}{c}{} \\
+
+	\textsc{Nov 2023} & \textbf{A distributed computing infrastructure for LOFAR Italian community}. G. Taffoni, U. Becciani, et al. Jan. 2022. arXiv e-prints, arXiv:2201.11526\\
+\multicolumn{2}{c}{} \\
+
+
+\end{tabular}
+
+\section{Posters}
+
+\begin{tabular}{r|p{16.5cm}}
+	\textsc{Jun 2017} & \href{https://www.radionet-org.eu/radionet/the-broad-impact-of-low-frequency-observing/}{Broad Impact of Low-Frequency Observing}. Poster sur mon travail de th\`ese d\'ecrivant le ``quality-based weighting scheme'' d\'evelopp\'e.\\
+	\multicolumn{2}{c}{} \\
+\end{tabular}
+
+
+\section{Conf\'erences \& S\'eminaires Invit\'es}
+
+\begin{tabular}{r|p{16.5cm}}
+	
+	
+	\textsc{Mai 2024} & Invit\'e \`a pr\'esenter les r\'esultats et techniques LOFAR-VLBI au Max Planck Institute for Radio Astronomy.\\
+	%\multicolumn{2}{c}{} \\
+	\textsc{Nov 2023} & Invit\'e par Matthias Ho\"eft \`a pr\'esenter l'\'etat de l'art avec LOFAR au Thüringer Landessternwarte.
+%	\multicolumn{2}{c}{} \\
+\end{tabular}
+
+
+\section{Conf\'erences \& Workshops}
+
+\begin{tabular}{r|p{16.5cm}}
+
+
+
+\textsc{Nov 2023} & \href{https://events.mpifr-bonn.mpg.de/indico/event/324/overview}{GLOW meeting }\`a Bochum. J'y ai pr\'esent\'e mon travail de suivi, avec LOFAR, de relev\'es faits en X par Manami Sasaki et Sara Saeedi autour de M31.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Nov 2023} & Invit\'e \`a pr\'esenter les avanc\'ees de LOFAR des derni\`eres ann\'ees \`a l'Observatoire de Thuringe.\\
+\multicolumn{2}{c}{} \\
+
+
+\textsc{Aug 2023} & \href{https://indico.ecap.work/event/27/}{FRANCI meeting }\`a Bamberg. J'y ai pr\'esent\'e le projet DFG dans lequel je travaille, qui porte sur le suivi de blazars \`a jets \'emettant en X avec le LOFAR-VLBI. Je suis en charge de la section LOFAR de ce projet.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Jun 2023} & \href{https://www.glowconsortium.de/index.php/en/lofar-family-meeting-2022}{LOFAR Family Meeting} \`a Cologne. J'y ai pr\'esent\'e les int\'er\^ets \`a int\'egrer NenuFAR en tant que ``super-station'' du International LOFAR Telescope; cela permettrait d'am\'eliorer nettement la calibration et la mesure de quantit\'es de clot\^ure. J'y ai aussi pr\'esent\'e les avantages de nouvelles extensions de l'ILT.\\
+\multicolumn{2}{c}{} \\
+
+
+\textsc{Jan 2022} & ADASS XXXI: A distributed computing infrastructure for LOFAR Italian community \cite{2022arXiv220111526T}. Papier de conf\'erence, pr\'esentant un travail pour lequel j'ai servi de conseil scientifique cl\'e pour la collaboration.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Mar 2021} & \href{https://www.astron.nl/lofarschool2021/}{6th LOFAR data school}. J'y ai pr\'esent'e la calibration d\'ependente de la direction pour LOFAR, et organis\'e un hands-on workshop.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Mar 2021} & \href{https://sites.google.com/inaf.it/rgcw-meeting/home-page}{RGCW Meeting}. Gave talk on progress of NenuFAR Cosmic Filaments \& Magnetic Fields Pilot Surveys.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Apr 2018} & Invited lecturer at \href{https://indico.ced.inaf.it/event/9/}{the first Italian LOFAR School}. Organised a hands-on workshop on direction-dependent calibration, and helped tutor in the workshops of colleagues.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Sep 2018} & \href{https://www.astron.nl/lofarschool2018/}{5th LOFAR data school}. Talk on direction-dependent calibration, tutoring hands-on tutorial.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Dec 2017} & \href{http://www.physics.usyd.edu.au/salf_iv/}{SALF IV}. Gave talk on quality-based weighting schemes.\\
+\multicolumn{2}{c}{} \\
+
+\textsc{Oct 2016} & \href{http://www.ast.uct.ac.za/ast/meetings-workshops/3gc4}{3GC4}. Organised hands-on workshop on \href{https://github.com/ebonnassieux/Teaching/blob/master/PyrapTutorial.ipynb}{using pyrap}, a python wrapper for casacore. This allows scientists to interact with interferometric datasets in an efficient manner.\\
+\multicolumn{2}{c}{} \\
+	
+\end{tabular}
+
+
+%
+%
+%\setlength{\bibsep}{0pt plus 0.3ex}
+%%\begin{multicols}{2}
+%	\small%jesus 60 MB 
+%	{\setstretch{0.5}
+%		\bibliographystyle{bibgen}
+%		\bibliography{biblio}
+%	}
+%%\end{multicols}
+
+%
+%\bibliographystyle{aa}
+%\bibliography{biblio}
+
+
+\end{document}

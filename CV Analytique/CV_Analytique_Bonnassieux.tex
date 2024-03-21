@@ -1,0 +1,100 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plasmati Graduate CV
+% LaTeX Template
+% Version 1.0 (24/3/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Alessandro Plasmati (alessandro.plasmati@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template needs to be compiled with XeLaTeX.
+% The main document font is called Fontin and can be downloaded for free
+% from here: http://www.exljbris.com/fontin.html
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt]{report} % Default font size and paper size
+\usepackage[top=1cm,bottom=1cm,margin=2cm]{geometry}
+%\geometry{top=1cm,bottom=1cm,margin=1cm}
+\usepackage[breaklinks=true]{hyperref}
+
+%\usepackage{fontspec} % For loading fonts
+%\defaultfontfeatures{Mapping=tex-text}
+%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin} % Main document font
+
+
+%\usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
+\usepackage{url,parskip}
+
+\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+
+%\usepackage{fullpage}
+%\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be 
+%\usepackage{fullpage}
+% To reduce the height of the top margin uncomment: \addtolength{\voffset}{-1.3cm}
+%\addtolength{\voffset}{-0.8cm}
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\definecolor{linkcolour}{rgb}{0,0.2,0.6} % Link color
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour} % Set link colors throughout the document
+
+\usepackage{titlesec} % Used to customize the \section command
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
+\titlespacing{\section}{0pt}{3pt}{3pt} % Spacing around sections
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\bfseries}{}{0pt}{\huge}
+
+
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+	{\noindent\raggedright\normalfont% Alignment and font reset
+		\huge\bfseries \thechapter~~#1\par\nobreak}% Formatting
+	\vspace{\baselineskip}% ...just a little space
+}
+\makeatother
+
+
+
+%
+%\makeatletter
+%\newcommandtwoopt{\citeads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+%	{\def\hyper@linkstart##1##2{}%
+%		\let\hyper@linkend\@empty\citealp[#1][#2]{#3}}}
+%\newcommandtwoopt{\citepads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+%	{\def\hyper@linkstart##1##2{}%
+%		\let\hyper@linkend\@empty\citep[#1][#2]{#3}}}
+%\newcommandtwoopt{\citetads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
+%	{\def\hyper@linkstart##1##2{}%
+%		\let\hyper@linkend\@empty\citet[#1][#2]{#3}}}
+%\newcommandtwoopt{\citeyearads}[3][][]%
+%{\href{http://adsabs.harvard.edu/abs/#3}
+%	{\def\hyper@linkstart##1##2{}%
+%		\let\hyper@linkend\@empty\citeyear[#1][#2]{#3}}}
+%\makeatother
+
+\renewcommand{\contentsname}{Table des mati\`eres}
+
+
+\begin{document}
+
+\tableofcontents
+
+\newpage
+
+\input{CV/CV.tex}
+
+\input{publications/publications.tex}
+
+\end{document}
