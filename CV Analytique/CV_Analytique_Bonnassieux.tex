@@ -1,42 +1,58 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Plasmati Graduate CV
-% LaTeX Template
-% Version 1.0 (24/3/13)
-%
-% This template has been downloaded from:
-% http://www.LaTeXTemplates.com
-%
-% Original author:
-% Alessandro Plasmati (alessandro.plasmati@gmail.com)
-%
-% License:
-% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
-%
-% Important note:
-% This template needs to be compiled with XeLaTeX.
-% The main document font is called Fontin and can be downloaded for free
-% from here: http://www.exljbris.com/fontin.html
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%----------------------------------------------------------------------------------------
-%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
-%----------------------------------------------------------------------------------------
-
-\documentclass[10pt]{report} % Default font size and paper size
+\documentclass[10pt, notitlepage]{report} % Default font size and paper size
 \usepackage[top=1cm,bottom=1cm,margin=2cm]{geometry}
 %\geometry{top=1cm,bottom=1cm,margin=1cm}
 \usepackage[breaklinks=true]{hyperref}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{caption}
+%\usepackage[divpsnames]{xcolor}
+\usepackage{subcaption}
+\usepackage{hyperref}
+%\usepackage{aas_macros}
+\usepackage{natbib, twoopt}
+\usepackage{booktabs}
+\usepackage{floatrow}
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+\usepackage{listings}
+\usepackage{aas_macros}
+\usepackage[capitalise,nameinlink]{cleveref}
+\usepackage{wrapfig}
+%\lstset{language=C,
+	%  basicstyle=\footnotesize,
+	%  keywordstyle=\color{blue},
+	%  commentstyle=\color{green},
+	%  numberstyle=\color{magenta},
+	%  stringstyle=\color{blue},
+	%  identifierstyle=\color{black}
+	%}
+\usepackage{color}
+\usepackage{float}
+\restylefloat{figure}
+\usepackage{changepage}
+\usepackage[titles]{tocloft}
+\usepackage[justification=centering,font=small,labelsep=period,textfont=it,labelfont=bf]{caption}
+\usepackage{url}
+\newcommand{\Hrule}{\rule{\linewidth}{0.4mm}}
+%\usepackage[french]{babel}
+%\interfootnotelinepenalty=10000  % So that long footnotes bring their paragraph with them on next page
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=cyan}
+\def\pg{\paragraph{}}
 
-%\usepackage{fontspec} % For loading fonts
-%\defaultfontfeatures{Mapping=tex-text}
-%\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin} % Main document font
+\usepackage{mdframed}
+\newmdenv[linecolor=green,backgroundcolor=green]{infobox}
 
 
-%\usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
+\usepackage{multicol}
+\usepackage{setspace}
+
+\usepackage{tcolorbox}
 \usepackage{url,parskip}
 
-\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+%\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
 
 %\usepackage{fullpage}
 %\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be 
@@ -57,6 +73,26 @@
 {\normalfont\bfseries}{}{0pt}{\huge}
 
 
+
+
+\usepackage{multicol}
+\usepackage{setspace}
+
+\usepackage{tcolorbox}
+\usepackage{wrapfig}
+%\usepackage{subfigure}
+\usepackage[capitalise,nameinlink]{cleveref}
+
+
+
+\usepackage{multicol}
+\usepackage{setspace}
+
+\usepackage{natbib, twoopt}
+\usepackage{booktabs}
+\usepackage{floatrow}
+
+
 \makeatletter
 \renewcommand{\@makechapterhead}[1]{%
 	{\noindent\raggedright\normalfont% Alignment and font reset
@@ -66,28 +102,45 @@
 \makeatother
 
 
-
-%
-%\makeatletter
-%\newcommandtwoopt{\citeads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
-%	{\def\hyper@linkstart##1##2{}%
-%		\let\hyper@linkend\@empty\citealp[#1][#2]{#3}}}
-%\newcommandtwoopt{\citepads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
-%	{\def\hyper@linkstart##1##2{}%
-%		\let\hyper@linkend\@empty\citep[#1][#2]{#3}}}
-%\newcommandtwoopt{\citetads}[3][][]{\href{http://adsabs.harvard.edu/abs/#3}%
-%	{\def\hyper@linkstart##1##2{}%
-%		\let\hyper@linkend\@empty\citet[#1][#2]{#3}}}
-%\newcommandtwoopt{\citeyearads}[3][][]%
-%{\href{http://adsabs.harvard.edu/abs/#3}
-%	{\def\hyper@linkstart##1##2{}%
-%		\let\hyper@linkend\@empty\citeyear[#1][#2]{#3}}}
-%\makeatother
+\def\pg{\paragraph{}}
+\usepackage{titling}
 
 \renewcommand{\contentsname}{Table des mati\`eres}
 
+\author{Etienne Bonnassieux}
+
+\title{CV Analytique \\~\\
+	\large Candidature Ma\^itre de Conf\'erences}
+\date{Mars 2024}
 
 \begin{document}
+
+	\maketitle
+
+
+Titre du poste: \textbf{Primordial Galaxies}
+
+R\'esum\'e du poste: The SKA and JWST will probe the buildup of the first galaxies. The “Galaxies and Cosmology” team at
+LERMA is looking for an expert in the field, able to confront the upcoming observations with models, to
+unveil the physical processes in and around primordial galaxies.
+
+Expertise: observations SKA \& pr\'ecurseurs (LOFAR, NenuFAR)
+
+%	\begin{abstract}
+		Informations administratives:
+		\begin{itemize}
+			\item R\'ef\'erence GESUP 1722
+			\item Référence GALAXIE : 568
+			\item Section: 34
+			\item Laboratoire: UMR8114 LERMA
+			\item UFR 925 - Physique
+			\item Num\'ero de l'emploi: 1722
+			\item Implantation du poste: 0755890V - UNIVERSITE SORBONNE UNIVERSITE
+		\end{itemize}
+%	\end{abstract}
+
+
+
 
 \tableofcontents
 
@@ -112,6 +165,18 @@
 
 \newpage
 \input{TravailInstrumental/instrumentation.tex}
+
+
+
+
+\setlength{\bibsep}{0pt plus 0.3ex}
+\begin{multicols}{3}
+	\small%jesus 60 MB 
+	{\setstretch{0.5}
+		\bibliographystyle{aa}
+		\bibliography{biblio}
+	}
+\end{multicols}
 
 
 \end{document}

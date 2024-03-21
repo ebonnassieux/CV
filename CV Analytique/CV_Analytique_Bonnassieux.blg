@@ -1,0 +1,176 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: CV_Analytique_Bonnassieux.aux
+The style file: bibgen.bst
+Database file #1: bib.bib
+Repeated entry---line 3182 of file bib.bib
+ : @article{1959MmRAS..68...37E
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4096 of file bib.bib
+ : @article{2022A&A...658A..10B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4219 of file bib.bib
+ : @article{2019SSRv..215...16V
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4238 of file bib.bib
+ : @article{1962SvA.....6..317K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4264 of file bib.bib
+ :  @article{1973A&A....26..423J
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5518 of file bib.bib
+ : @article{2019SSRv..215...16V
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5798 of file bib.bib
+ : @article{2021NatAs...5.1261B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5935 of file bib.bib
+ : @article{2022A&A...658A..10B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6054 of file bib.bib
+ : @article{2021ApJ...907...32B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6123 of file bib.bib
+ : @article{2022A&A...658A..10B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7752 of file bib.bib
+ : @article{2019SSRv..215...16V
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8032 of file bib.bib
+ : @article{2021NatAs...5.1261B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8169 of file bib.bib
+ : @article{2022A&A...658A..10B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8288 of file bib.bib
+ : @article{2021ApJ...907...32B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8325 of file bib.bib
+ : @article{2021Galax...9..105B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8967 of file bib.bib
+ : @article{2019SSRv..215...16V
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9048 of file bib.bib
+ : @article{2021AA...646A..56R
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9066 of file bib.bib
+ : @article{2021ApJ...907...32B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9101 of file bib.bib
+ : @article{2020AA...642L..13R
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9132 of file bib.bib
+ : @article{2020AA...637A..51B
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9150 of file bib.bib
+ : @article{2020A&A...636A..30R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9200 of file bib.bib
+ : @article{2021Galax...9..105B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9247 of file bib.bib
+ : @article{2021Galax...9..105B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9281 of file bib.bib
+ : @article{2020A&A...636A..30R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9319 of file bib.bib
+ : @article{2020A&A...636A..30R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9392 of file bib.bib
+ : @article{2018AA...615A..66B
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9478 of file bib.bib
+ : @article{2021ApJ...907...32B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10003 of file bib.bib
+ : @article{2021ApJ...907...32B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10022 of file bib.bib
+ : @article{2020A&A...636A..30R
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10061 of file bib.bib
+ : @article{2021A&A...650A.170B
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10079 of file bib.bib
+ : @article{2022A&A...663A..44K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10097 of file bib.bib
+ : @article{2022A&A...663A..44K
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--missing publisher in 1988ASSL..133.....R
+You've used 37 entries,
+            2790 wiz_defined-function locations,
+            844 strings with 16035 characters,
+and the built_in function-call counts, 9782 in all, are:
+= -- 496
+> -- 422
+< -- 1
++ -- 194
+- -- 97
+* -- 479
+:= -- 1166
+add.period$ -- 37
+call.type$ -- 37
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 1111
+empty$ -- 952
+format.name$ -- 131
+if$ -- 2130
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 318
+newline$ -- 114
+num.names$ -- 37
+pop$ -- 378
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 277
+stack$ -- 0
+substring$ -- 189
+swap$ -- 749
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 55
+width$ -- 39
+write$ -- 295
+(There were 32 error messages)
