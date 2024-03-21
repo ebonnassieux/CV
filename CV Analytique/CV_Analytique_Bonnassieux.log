@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  21 MAR 2024 21:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  21 MAR 2024 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -995,7 +995,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 ...and\NAT@force@numbers{}\NAT@force@numbers
+l.252 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 Check the bibliography entries for non-compliant syntax,
 or select author-year BibTeX style, e.g. plainnat
@@ -1003,24 +1003,24 @@ or select author-year BibTeX style, e.g. plainnat
 )
 \openout1 = `CV_Analytique_Bonnassieux.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1056,7 +1056,7 @@ LaTeX Font Info:    ... okay on input line 116.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 116.
+Package hyperref Info: Link coloring ON on input line 118.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1068,9 +1068,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 116.
-LaTeX Info: Redefining \pageref on input line 116.
-LaTeX Info: Redefining \nameref on input line 116.
+LaTeX Info: Redefining \ref on input line 118.
+LaTeX Info: Redefining \pageref on input line 118.
+LaTeX Info: Redefining \nameref on input line 118.
 
 (./CV_Analytique_Bonnassieux.out) (./CV_Analytique_Bonnassieux.out)
 \@outlinefile=\write4
@@ -1109,13 +1109,13 @@ Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count359
-LaTeX Font Info:    Trying to load font information for U+msa on input line 118
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 118
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1165,42 +1165,42 @@ Chapter 2.
 
 ]) [6] [7] (./ProjetRecherche/projet_recherche.tex
 Chapter 3.
-<ProjetRecherche/synchrotron.drawio.png, id=222, 619.31375pt x 566.115pt>
+<ProjetRecherche/synchrotron.drawio.png, id=304, 619.31375pt x 566.115pt>
 File: ProjetRecherche/synchrotron.drawio.png Graphic file (type png)
 <use ProjetRecherche/synchrotron.drawio.png>
 Package pdftex.def Info: ProjetRecherche/synchrotron.drawio.png  used on input 
 line 23.
 (pdftex.def)             Requested size: 200.19054pt x 182.99179pt.
-<ProjetRecherche/toothbrush_edited.jpeg, id=225, 833.1125pt x 778.91pt>
+<ProjetRecherche/toothbrush_edited.jpeg, id=307, 833.1125pt x 778.91pt>
 File: ProjetRecherche/toothbrush_edited.jpeg Graphic file (type jpg)
 <use ProjetRecherche/toothbrush_edited.jpeg>
 Package pdftex.def Info: ProjetRecherche/toothbrush_edited.jpeg  used on input 
 line 40.
-(pdftex.def)             Requested size: 200.19054pt x 187.15616pt.
+(pdftex.def)             Requested size: 175.17244pt x 163.76608pt.
 [8
 
  <./ProjetRecherche/synchrotron.drawio.png> <./ProjetRecherche/toothbrush_edite
 d.jpeg>]
-<ProjetRecherche/nenufar_coma.jpeg, id=258, 1606.0pt x 833.1125pt>
+<ProjetRecherche/nenufar_coma.jpeg, id=340, 1606.0pt x 833.1125pt>
 File: ProjetRecherche/nenufar_coma.jpeg Graphic file (type jpg)
 <use ProjetRecherche/nenufar_coma.jpeg>
 Package pdftex.def Info: ProjetRecherche/nenufar_coma.jpeg  used on input line 
 73.
-(pdftex.def)             Requested size: 500.484pt x 259.62242pt.
+(pdftex.def)             Requested size: 480.46799pt x 249.2365pt.
  [9 <./ProjetRecherche/nenufar_coma.jpeg>]
-<ProjetRecherche/3C295_martin_flux.png, id=292, 853.5087pt x 817.3737pt>
+<ProjetRecherche/3C295_martin_flux.png, id=374, 853.5087pt x 817.3737pt>
 File: ProjetRecherche/3C295_martin_flux.png Graphic file (type png)
 <use ProjetRecherche/3C295_martin_flux.png>
 Package pdftex.def Info: ProjetRecherche/3C295_martin_flux.png  used on input l
 ine 106.
 (pdftex.def)             Requested size: 150.14671pt x 143.79086pt.
-<ProjetRecherche/ccplot_boxes_reg.png, id=293, 853.5087pt x 817.3737pt>
+<ProjetRecherche/ccplot_boxes_reg.png, id=375, 853.5087pt x 817.3737pt>
 File: ProjetRecherche/ccplot_boxes_reg.png Graphic file (type png)
 <use ProjetRecherche/ccplot_boxes_reg.png>
 Package pdftex.def Info: ProjetRecherche/ccplot_boxes_reg.png  used on input li
 ne 112.
 (pdftex.def)             Requested size: 150.14671pt x 143.79086pt.
-<ProjetRecherche/avg_all_ccplot_annotated.jpeg, id=294, 1225.57875pt x 1024.828
+<ProjetRecherche/avg_all_ccplot_annotated.jpeg, id=376, 1225.57875pt x 1024.828
 75pt>
 File: ProjetRecherche/avg_all_ccplot_annotated.jpeg Graphic file (type jpg)
 <use ProjetRecherche/avg_all_ccplot_annotated.jpeg>
@@ -1209,53 +1209,122 @@ Package pdftex.def Info: ProjetRecherche/avg_all_ccplot_annotated.jpeg  used on
 (pdftex.def)             Requested size: 175.17244pt x 146.47746pt.
  [10 <./ProjetRecherche/3C295_martin_flux.png> <./ProjetRecherche/ccplot_boxes_
 reg.png> <./ProjetRecherche/avg_all_ccplot_annotated.jpeg>]
-<ProjetRecherche/andromeda-full.jpeg, id=335, 1606.0pt x 515.9275pt>
+<ProjetRecherche/andromeda-full.jpeg, id=416, 1606.0pt x 515.9275pt>
 File: ProjetRecherche/andromeda-full.jpeg Graphic file (type jpg)
 <use ProjetRecherche/andromeda-full.jpeg>
 Package pdftex.def Info: ProjetRecherche/andromeda-full.jpeg  used on input lin
 e 193.
 (pdftex.def)             Requested size: 500.484pt x 160.77821pt.
- [11 <./ProjetRecherche/andromeda-full.jpeg>]
-(./CV_Analytique_Bonnassieux.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]\OT1/cmr/m/n/9 Etienne Bon-nassieux, Alas-tair
+) (./ProjetRecherche_futur/projet_recherche.tex
+Overfull \hbox (2.45372pt too wide) in paragraph at lines 5--5
+\OT1/cmr/bx/n/14.4 magn^^Setique cos-mique par ray-on-nement radio-synchrotron 
+avec LO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--37
-[]\OT1/cmr/m/n/9 M. Kadler, D. A. Riech-ers,
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 5.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-\OT1/cmr/m/n/9 VizieR On-line Data Cat-a-log,
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 5.
+
+[11 <./ProjetRecherche/andromeda-full.jpeg>] [12]
+<ProjetRecherche_futur/detection.png, id=482, 963.6pt x 542.025pt>
+File: ProjetRecherche_futur/detection.png Graphic file (type png)
+<use ProjetRecherche_futur/detection.png>
+Package pdftex.def Info: ProjetRecherche_futur/detection.png  used on input lin
+e 70.
+(pdftex.def)             Requested size: 475.45825pt x 267.43892pt.
+ [13 <./ProjetRecherche_futur/detection.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 104.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
-[]\OT1/cmr/m/n/9 Aleksandr A. Ruz-maikin,
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 104.
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 106--107
-[]\OT1/cmr/m/n/9 Ellen G. Zweibel. May 2013,
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 104.
 
-) [12] (./CV_Analytique_Bonnassieux.aux)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 104.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 112.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 112.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leavevmode@ifvmode' on input line 118.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 1.66702pt
+(hyperref)                removed on input line 118.
+
+[14]) [15] (./Enseignement/enseignement.tex
+Chapter 4.
+) [16
+
+] (./TempsTelescope/temps_telescope.tex
+Chapter 5.
+) [17
+
+] (./TravailInstrumental/instrumentation.tex
+Chapter 6.
+) [18
+
+] (./CV_Analytique_Bonnassieux.bbl [19
+
+]) [20]
+(./CV_Analytique_Bonnassieux.aux)
 Package rerunfilecheck Info: File `CV_Analytique_Bonnassieux.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: BD503827C76C894AB54861701F3CB5DB;3807.
- ) ) 
+(rerunfilecheck)             Checksum: B883C9A6DE5020F63C38DCC7F662AAA4;9056.
+ ) 
 Here is how much of TeX's memory you used:
- 28091 strings out of 478287
- 522002 string characters out of 5849289
- 819784 words of memory out of 5000000
- 45748 multiletter control sequences out of 15000+600000
- 480374 words of font info for 69 fonts, out of 8000000 for 9000
+ 28295 strings out of 478287
+ 526647 string characters out of 5849289
+ 817455 words of memory out of 5000000
+ 45878 multiletter control sequences out of 15000+600000
+ 481927 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,9n,89p,1841b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{https://github.com/ratt-ru/fundamentals_of_inte
-rferometry} has been referenced but does not exist, replaced by a fixed one
+ 83i,9n,89p,1841b,614s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{https://github.com/ratt-ru/fundamentals_of_interf
+erometry} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{https://github.com/ebonnassieux/Scripts/blob/master
 /PyrapTutorial.ipynb} has been referenced but does not exist, replaced by a fix
@@ -1277,18 +1346,22 @@ fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfrm1000.pfb>
-Output written on CV_Analytique_Bonnassieux.pdf (12 pages, 1279357 bytes).
+fonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+1000.pfb>
+Output written on CV_Analytique_Bonnassieux.pdf (20 pages, 1890319 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 379 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
- 200 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 649 PDF objects out of 1000 (max. 8388607)
+ 570 compressed objects within 6 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 

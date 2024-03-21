@@ -102,6 +102,8 @@
 \makeatother
 
 
+
+
 \def\pg{\paragraph{}}
 \usepackage{titling}
 
@@ -115,7 +117,7 @@
 
 \begin{document}
 
-	\maketitle
+\maketitle
 
 
 Titre du poste: \textbf{Primordial Galaxies}
@@ -155,7 +157,8 @@ Expertise: observations SKA \& pr\'ecurseurs (LOFAR, NenuFAR)
 
 \newpage
 \input{ProjetRecherche/projet_recherche.tex}
-
+\input{ProjetRecherche_futur/projet_recherche.tex}
+%
 \newpage
 \input{Enseignement/enseignement.tex}
 
@@ -167,16 +170,18 @@ Expertise: observations SKA \& pr\'ecurseurs (LOFAR, NenuFAR)
 \input{TravailInstrumental/instrumentation.tex}
 
 
+\newpage	
 
+\renewcommand\bibname{R\'ef\'erences utillis\'ees}
 
 \setlength{\bibsep}{0pt plus 0.3ex}
-\begin{multicols}{3}
-	\small%jesus 60 MB 
-	{\setstretch{0.5}
-		\bibliographystyle{aa}
+%\begin{multicols}{3}
+%%	\small%jesus 60 MB 
+%	{\setstretch{0.5}
+		\bibliographystyle{bibgen}
 		\bibliography{biblio}
-	}
-\end{multicols}
-
+%	}
+%\end{multicols}
+%
 
 \end{document}
