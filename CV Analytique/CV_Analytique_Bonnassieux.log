@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  24 MAR 2024 17:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  29 MAR 2024 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,7 +1002,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.284 ...and\NAT@force@numbers{}\NAT@force@numbers
+l.286 ...and\NAT@force@numbers{}\NAT@force@numbers
                                                   
 Check the bibliography entries for non-compliant syntax,
 or select author-year BibTeX style, e.g. plainnat
@@ -1172,13 +1172,13 @@ Chapter 2.
 
 ]) [6] [7] (./ProjetRecherche/projet_recherche.tex
 Chapter 3.
-<ProjetRecherche/synchrotron.drawio.png, id=314, 619.31375pt x 566.115pt>
+<ProjetRecherche/synchrotron.drawio.png, id=319, 619.31375pt x 566.115pt>
 File: ProjetRecherche/synchrotron.drawio.png Graphic file (type png)
 <use ProjetRecherche/synchrotron.drawio.png>
 Package pdftex.def Info: ProjetRecherche/synchrotron.drawio.png  used on input 
 line 23.
 (pdftex.def)             Requested size: 200.19054pt x 182.99179pt.
-<ProjetRecherche/toothbrush_edited.jpeg, id=317, 833.1125pt x 778.91pt>
+<ProjetRecherche/toothbrush_edited.jpeg, id=322, 833.1125pt x 778.91pt>
 File: ProjetRecherche/toothbrush_edited.jpeg Graphic file (type jpg)
 <use ProjetRecherche/toothbrush_edited.jpeg>
 Package pdftex.def Info: ProjetRecherche/toothbrush_edited.jpeg  used on input 
@@ -1188,26 +1188,26 @@ line 40.
 
  <./ProjetRecherche/synchrotron.drawio.png> <./ProjetRecherche/toothbrush_edite
 d.jpeg>]
-<ProjetRecherche/nenufar_coma.jpeg, id=350, 1606.0pt x 833.1125pt>
+<ProjetRecherche/nenufar_coma.jpeg, id=355, 1606.0pt x 833.1125pt>
 File: ProjetRecherche/nenufar_coma.jpeg Graphic file (type jpg)
 <use ProjetRecherche/nenufar_coma.jpeg>
 Package pdftex.def Info: ProjetRecherche/nenufar_coma.jpeg  used on input line 
 73.
 (pdftex.def)             Requested size: 480.46799pt x 249.2365pt.
  [9 <./ProjetRecherche/nenufar_coma.jpeg>]
-<ProjetRecherche/3C295_martin_flux.png, id=384, 853.5087pt x 817.3737pt>
+<ProjetRecherche/3C295_martin_flux.png, id=389, 853.5087pt x 817.3737pt>
 File: ProjetRecherche/3C295_martin_flux.png Graphic file (type png)
 <use ProjetRecherche/3C295_martin_flux.png>
 Package pdftex.def Info: ProjetRecherche/3C295_martin_flux.png  used on input l
 ine 106.
 (pdftex.def)             Requested size: 150.14671pt x 143.79086pt.
-<ProjetRecherche/ccplot_boxes_reg.png, id=385, 853.5087pt x 817.3737pt>
+<ProjetRecherche/ccplot_boxes_reg.png, id=390, 853.5087pt x 817.3737pt>
 File: ProjetRecherche/ccplot_boxes_reg.png Graphic file (type png)
 <use ProjetRecherche/ccplot_boxes_reg.png>
 Package pdftex.def Info: ProjetRecherche/ccplot_boxes_reg.png  used on input li
 ne 112.
 (pdftex.def)             Requested size: 150.14671pt x 143.79086pt.
-<ProjetRecherche/avg_all_ccplot_annotated.jpeg, id=386, 1225.57875pt x 1024.828
+<ProjetRecherche/avg_all_ccplot_annotated.jpeg, id=391, 1225.57875pt x 1024.828
 75pt>
 File: ProjetRecherche/avg_all_ccplot_annotated.jpeg Graphic file (type jpg)
 <use ProjetRecherche/avg_all_ccplot_annotated.jpeg>
@@ -1216,7 +1216,7 @@ Package pdftex.def Info: ProjetRecherche/avg_all_ccplot_annotated.jpeg  used on
 (pdftex.def)             Requested size: 175.17244pt x 146.47746pt.
  [10 <./ProjetRecherche/3C295_martin_flux.png> <./ProjetRecherche/ccplot_boxes_
 reg.png> <./ProjetRecherche/avg_all_ccplot_annotated.jpeg>]
-<ProjetRecherche/andromeda-full.jpeg, id=426, 1606.0pt x 515.9275pt>
+<ProjetRecherche/andromeda-full.jpeg, id=431, 1606.0pt x 515.9275pt>
 File: ProjetRecherche/andromeda-full.jpeg Graphic file (type jpg)
 <use ProjetRecherche/andromeda-full.jpeg>
 Package pdftex.def Info: ProjetRecherche/andromeda-full.jpeg  used on input lin
@@ -1233,7 +1233,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removed on input line 5.
 
 [11 <./ProjetRecherche/andromeda-full.jpeg>] [12]
-<ProjetRecherche_futur/detection.png, id=492, 963.6pt x 542.025pt>
+<ProjetRecherche_futur/detection.png, id=497, 963.6pt x 542.025pt>
 File: ProjetRecherche_futur/detection.png Graphic file (type png)
 <use ProjetRecherche_futur/detection.png>
 Package pdftex.def Info: ProjetRecherche_futur/detection.png  used on input lin
@@ -1265,13 +1265,13 @@ Chapter 7.
 ]) [21] (./CV_Analytique_Bonnassieux.aux)
 Package rerunfilecheck Info: File `CV_Analytique_Bonnassieux.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: EAE148951DD86ED91D0B721568B00B32;8691.
+(rerunfilecheck)             Checksum: 9AE692F80F04B52704F8E0314335A365;8935.
  ) 
 Here is how much of TeX's memory you used:
- 28397 strings out of 478287
- 528402 string characters out of 5849289
+ 28399 strings out of 478287
+ 528426 string characters out of 5849289
  820682 words of memory out of 5000000
- 45973 multiletter control sequences out of 15000+600000
+ 45974 multiletter control sequences out of 15000+600000
  481927 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,9n,89p,1841b,676s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1309,10 +1309,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
 /type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1000.pfb>
-Output written on CV_Analytique_Bonnassieux.pdf (21 pages, 1897684 bytes).
+Output written on CV_Analytique_Bonnassieux.pdf (21 pages, 1898703 bytes).
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
- 583 compressed objects within 6 object streams
- 139 named destinations out of 1000 (max. 500000)
- 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 666 PDF objects out of 1000 (max. 8388607)
+ 588 compressed objects within 6 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 
