@@ -1,10 +1,18 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{29}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Biava} {et~al.}(2021){Biava}, {Brienza}, {Bonafede}, {Gitti},
   {Bonnassieux}, {Harwood}, {Edge}, {Riseley}, \&
   {Vantyghem}}]{2021AA...650A.170B}
 {Biava}, N., {Brienza}, M., {Bonafede}, A., {et~al.} 2021, \aap, 650, A170
+
+\bibitem[{{Bonafede} {et~al.}(2022){Bonafede}, {Brunetti}, {Rudnick}, {Vazza},
+  {Bourdin}, {Giovannini}, {Shimwell}, {Zhang}, {Mazzotta}, {Simionescu},
+  {Biava}, {Bonnassieux}, {Brienza}, {Br{\"u}ggen}, {Rajpurohit}, {Riseley},
+  {Stuardi}, {Feretti}, {Tasse}, {Botteon}, {Carretti}, {Cassano}, {Cuciti},
+  {Gasperin}, {Gastaldello}, {Rossetti}, {Rottgering}, {Venturi}, \&
+  {Weeren}}]{2022ApJ...933..218B}
+{Bonafede}, A., {Brunetti}, G., {Rudnick}, L., {et~al.} 2022, \apj, 933, 218
 
 \bibitem[{{Bonafede} {et~al.}(2021){Bonafede}, {Brunetti}, {Vazza},
   {Simionescu}, {Giovannini}, {Bonnassieux}, {Shimwell}, {Br{\"u}ggen}, {van
@@ -18,23 +26,77 @@
 {Bonnassieux}, E., {Edge}, A., {Morabito}, L., \& {Bonafede}, A. 2020, \aap,
   637, A51
 
-\bibitem[{{Bonnassieux} {et~al.}(2021{\natexlab{a}}){Bonnassieux}, {Sweijen},
-  {Brienza}, {Rajpurohit}, {Riseley}, {Bonafede}, {Jackson}, {Morabito},
-  {Brunetti}, {Harwood}, {Kappes}, {Rottgering}, {Tasse}, \& {van
-  Weeren}}]{2021arXiv210807294B}
-{Bonnassieux}, E., {Sweijen}, F., {Brienza}, M., {et~al.} 2021{\natexlab{a}},
-  arXiv e-prints, arXiv:2108.07294
+\bibitem[{{Bonnassieux} {et~al.}(2022){Bonnassieux}, {Sweijen}, {Brienza},
+  {Rajpurohit}, {John Riseley}, {Bonafede}, {Jackson}, {Morabito}, {Brunetti},
+  {Harwood}, {Kappes}, {Rottgering}, {Tasse}, \& {van
+  Weeren}}]{2022AA...658A..10B}
+{Bonnassieux}, E., {Sweijen}, F., {Brienza}, M., {et~al.} 2022, \aap, 658, A10
 
 \bibitem[{{Bonnassieux} {et~al.}(2018){Bonnassieux}, {Tasse}, {Smirnov}, \&
   {Zarka}}]{2018AA...615A..66B}
 {Bonnassieux}, E., {Tasse}, C., {Smirnov}, O., \& {Zarka}, P. 2018, \aap, 615,
   A66
 
-\bibitem[{{Bonnassieux} {et~al.}(2021{\natexlab{b}}){Bonnassieux}, {Tremou},
-  {Girard}, {Loh}, {Vacca}, {Corbel}, {Cecconi}, {Grie{\ss}meier}, {Koopmans},
-  {Tagger}, {Theureau}, \& {Zarka}}]{2021Galax...9..105B}
-{Bonnassieux}, E., {Tremou}, E., {Girard}, J.~N., {et~al.} 2021{\natexlab{b}},
-  Galaxies, 9, 105
+\bibitem[{{Bonnassieux} {et~al.}(2021){Bonnassieux}, {Tremou}, {Girard}, {Loh},
+  {Vacca}, {Corbel}, {Cecconi}, {Grie{\ss}meier}, {Koopmans}, {Tagger},
+  {Theureau}, \& {Zarka}}]{2021Galax...9..105B}
+{Bonnassieux}, E., {Tremou}, E., {Girard}, J.~N., {et~al.} 2021, Galaxies, 9,
+  105
+
+\bibitem[{{Brienza} {et~al.}(2022){Brienza}, {Lovisari}, {Rajpurohit},
+  {Bonafede}, {Gastaldello}, {Murgia}, {Vazza}, {Bonnassieux}, {Botteon},
+  {Brunetti}, {Drabent}, {Hardcastle}, {Pasini}, {Riseley}, {R{\"o}ttgering},
+  {Shimwell}, {Simionescu}, \& {van Weeren}}]{2022AA...661A..92B}
+{Brienza}, M., {Lovisari}, L., {Rajpurohit}, K., {et~al.} 2022, \aap, 661, A92
+
+\bibitem[{{Harwood} {et~al.}(2022){Harwood}, {Mooney}, {Morabito}, {Quinn},
+  {Sweijen}, {Groeneveld}, {Bonnassieux}, {Kappes}, \&
+  {Moldon}}]{2022AA...658A...8H}
+{Harwood}, J.~J., {Mooney}, S., {Morabito}, L.~K., {et~al.} 2022, \aap, 658, A8
+
+\bibitem[{{Hoang} {et~al.}(2022){Hoang}, {Br{\"u}ggen}, {Botteon}, {Shimwell},
+  {Zhang}, {Bonafede}, {Bruno}, {Bonnassieux}, {Cassano}, {Cuciti}, {Drabent},
+  {de Gasperin}, {Gastaldello}, {Di Gennaro}, {Hoeft}, {Jones}, {Pignataro},
+  {R{\"o}ttgering}, {Simionescu}, \& {van Weeren}}]{2022AA...665A..60H}
+{Hoang}, D.~N., {Br{\"u}ggen}, M., {Botteon}, A., {et~al.} 2022, \aap, 665, A60
+
+\bibitem[{{Kadler} {et~al.}(2023){Kadler}, {Riechers}, {Agarwal}, {Baczko},
+  {Beuther}, {Bigiel}, {Birnstiel}, {Boccardi}, {Bomans}, {Boogaard}, {Braun},
+  {Britzen}, {Br{\"u}ggen}, {Brunthaler}, {Caselli}, {Els{\"a}sser}, {von
+  Fellenberg}, {Flock}, {Fromm}, {Fuhrmann}, {Hartogh}, {Hoeft}, {Keenan},
+  {Kovalev}, {Kreckel}, {Livingston}, {Lobanov}, {M{\"u}ller}, {Ros},
+  {Schilke}, {De Simone}, {Spitler}, {Ueda}, {Vardoulaki}, {Vegetti}, {Weis},
+  {Wendel}, {Xu}, {Zhao}, {Albrecht}, {Basu}, {Becker Tjus}, {Bernhart},
+  {Blum}, {Bonnassieux}, {Bredendiek}, {van Delden}, {Di Gennaro}, {Enders},
+  {Eppel}, {Hase}, {Hoang}, {Hugentobler}, {Kaasinen}, {Krupp}, {Kun},
+  {Laubach}, {Lin}, {Mannheim}, {Menten}, {Perkuhn}, {Pohl}, {Powell},
+  {Rezzolla}, {Ricci}, {Schinnerer}, {Schmidt}, {Sch{\"o}pfel}, {Stanko},
+  {Stein}, {Sulzenauer}, {Taziaux}, {Tursunov}, {Walter}, {Weiss}, {Witzel},
+  {Wolf}, {Zensus}, {Mus}, {Toth}, {Alberdi}, {Benisty}, {Cox}, {Guirado},
+  {Johnson}, {Juvela}, {Neeleman}, {Pashchenko}, {P{\'e}rez Torres}, {Perraut},
+  \& {Zajacek}}]{2023arXiv231110056K}
+{Kadler}, M., {Riechers}, D.~A., {Agarwal}, J., {et~al.} 2023, arXiv e-prints,
+  arXiv:2311.10056
+
+\bibitem[{{Kappes} {et~al.}(2022){Kappes}, {Burd}, {Kadler}, {Ghisellini},
+  {Bonnassieux}, {Perucho}, {Br{\"u}ggen}, {Cheung}, {Ciardi}, {Gallo},
+  {Haardt}, {Morabito}, {Sbarrato}, {Drabent}, {Harwood}, {Jackson}, \&
+  {Moldon}}]{2022AA...663A..44K}
+{Kappes}, A., {Burd}, P.~R., {Kadler}, M., {et~al.} 2022, \aap, 663, A44
+
+\bibitem[{{Morabito} {et~al.}(2022){Morabito}, {Jackson}, {Mooney}, {Sweijen},
+  {Badole}, {Kukreti}, {Venkattu}, {Groeneveld}, {Kappes}, {Bonnassieux},
+  {Drabent}, {Iacobelli}, {Croston}, {Best}, {Bondi}, {Callingham}, {Conway},
+  {Deller}, {Hardcastle}, {McKean}, {Miley}, {Moldon}, {R{\"o}ttgering},
+  {Tasse}, {Shimwell}, {van Weeren}, {Anderson}, {Asgekar}, {Avruch}, {van
+  Bemmel}, {Bentum}, {Bonafede}, {Brouw}, {Butcher}, {Ciardi}, {Corstanje},
+  {Coolen}, {Damstra}, {de Gasperin}, {Duscha}, {Eisl{\"o}ffel}, {Engels},
+  {Falcke}, {Garrett}, {Griessmeier}, {Gunst}, {van Haarlem}, {Hoeft}, {van der
+  Horst}, {J{\"u}tte}, {Kadler}, {Koopmans}, {Krankowski}, {Mann}, {Nelles},
+  {Oonk}, {Orru}, {Paas}, {Pandey}, {Pizzo}, {Pandey-Pommier}, {Reich},
+  {Rothkaehl}, {Ruiter}, {Schwarz}, {Shulevski}, {Soida}, {Tagger}, {Vocks},
+  {Wijers}, {Wijnholds}, {Wucknitz}, {Zarka}, \& {Zucca}}]{2022AA...658A...1M}
+{Morabito}, L.~K., {Jackson}, N.~J., {Mooney}, S., {et~al.} 2022, \aap, 658, A1
 
 \bibitem[{{Rajpurohit} {et~al.}(2021{\natexlab{a}}){Rajpurohit}, {Brunetti},
   {Bonafede}, {van Weeren}, {Botteon}, {Vazza}, {Hoeft}, {Riseley},
@@ -44,12 +106,30 @@
 {Rajpurohit}, K., {Brunetti}, G., {Bonafede}, A., {et~al.} 2021{\natexlab{a}},
   \aap, 646, A135
 
-\bibitem[{{Rajpurohit} {et~al.}(2022){Rajpurohit}, {Hoeft}, {Wittor}, {van
-  Weeren}, {Vazza}, {Rudnick}, {Rajpurohit}, {Forman}, {Riseley}, {Brienza},
-  {Bonafede}, {Rajpurohit}, {Dom{\'\i}nguez-Fern{\'a}ndez}, {Eilek},
-  {Bonnassieux}, {Br{\"u}ggen}, {Loi}, {R{\"o}ttgering}, {Drabent},
-  {Locatelli}, {Botteon}, {Brunetti}, \& {Clarke}}]{2022AA...657A...2R}
-{Rajpurohit}, K., {Hoeft}, M., {Wittor}, D., {et~al.} 2022, \aap, 657, A2
+\bibitem[{{Rajpurohit} {et~al.}(2022{\natexlab{a}}){Rajpurohit}, {Hoeft},
+  {Wittor}, {van Weeren}, {Vazza}, {Rudnick}, {Rajpurohit}, {Forman},
+  {Riseley}, {Brienza}, {Bonafede}, {Rajpurohit},
+  {Dom{\'\i}nguez-Fern{\'a}ndez}, {Eilek}, {Bonnassieux}, {Br{\"u}ggen}, {Loi},
+  {R{\"o}ttgering}, {Drabent}, {Locatelli}, {Botteon}, {Brunetti}, \&
+  {Clarke}}]{2022AA...657A...2R}
+{Rajpurohit}, K., {Hoeft}, M., {Wittor}, D., {et~al.} 2022{\natexlab{a}}, \aap,
+  657, A2
+
+\bibitem[{{Rajpurohit} {et~al.}(2023){Rajpurohit}, {Osinga}, {Brienza},
+  {Botteon}, {Brunetti}, {Forman}, {Riseley}, {Vazza}, {Bonafede}, {van
+  Weeren}, {Br{\"u}ggen}, {Rajpurohit}, {Drabent}, {Dallacasa}, {Rossetti},
+  {Rajpurohit}, {Hoeft}, {Bonnassieux}, {Cassano}, \&
+  {Miley}}]{2023AA...669A...1R}
+{Rajpurohit}, K., {Osinga}, E., {Brienza}, M., {et~al.} 2023, \aap, 669, A1
+
+\bibitem[{{Rajpurohit} {et~al.}(2022{\natexlab{b}}){Rajpurohit}, {van Weeren},
+  {Hoeft}, {Vazza}, {Brienza}, {Forman}, {Wittor},
+  {Dom{\'\i}nguez-Fern{\'a}ndez}, {Rajpurohit}, {Riseley}, {Botteon}, {Osinga},
+  {Brunetti}, {Bonnassieux}, {Bonafede}, {Rajpurohit}, {Stuardi}, {Drabent},
+  {Br{\"u}ggen}, {Dallacasa}, {Shimwell}, {R{\"o}ttgering}, {Gasperin},
+  {Miley}, \& {Rossetti}}]{2022ApJ...927...80R}
+{Rajpurohit}, K., {van Weeren}, R.~J., {Hoeft}, M., {et~al.}
+  2022{\natexlab{b}}, \apj, 927, 80
 
 \bibitem[{{Rajpurohit} {et~al.}(2020){Rajpurohit}, {Vazza}, {Hoeft}, {Loi},
   {Beck}, {Vacca}, {Kierdorf}, {van Weeren}, {Wittor}, {Govoni}, {Murgia},
@@ -73,6 +153,54 @@
 {Rajpurohit}, K., {Wittor}, D., {van Weeren}, R.~J., {et~al.}
   2021{\natexlab{c}}, \aap, 646, A56
 
+\bibitem[{{Riseley} {et~al.}(2023){Riseley}, {Biava}, {Lusetti}, {Bonafede},
+  {Bonnassieux}, {Botteon}, {Loi}, {Brunetti}, {Cassano}, {Osinga},
+  {Rajpurohit}, {R{\"o}ttgering}, {Shimwell}, {Timmerman}, \& {van
+  Weeren}}]{2023MNRAS.524.6052R}
+{Riseley}, C.~J., {Biava}, N., {Lusetti}, G., {et~al.} 2023, \mnras, 524, 6052
+
+\bibitem[{{Riseley} {et~al.}(2024){Riseley}, {Bonafede}, {Bruno}, {Botteon},
+  {Rossetti}, {Biava}, {Bonnassieux}, {Loi}, {Vernstrom}, \&
+  {Balboni}}]{2024AA...686A..44R}
+{Riseley}, C.~J., {Bonafede}, A., {Bruno}, L., {et~al.} 2024, \aap, 686, A44
+
+\bibitem[{{Riseley} {et~al.}(2022{\natexlab{a}}){Riseley}, {Bonnassieux},
+  {Vernstrom}, {Galvin}, {Chokshi}, {Botteon}, {Rajpurohit}, {Duchesne},
+  {Bonafede}, {Rudnick}, {Hoeft}, {Quici}, {Eckert}, {Brienza}, {Tasse},
+  {Carretti}, {Collier}, {Diego}, {Di Mascolo}, {Hopkins}, {Johnston-Hollitt},
+  {Keel}, {Koribalski}, \& {Reiprich}}]{2022MNRAS.515.1871R}
+{Riseley}, C.~J., {Bonnassieux}, E., {Vernstrom}, T., {et~al.}
+  2022{\natexlab{a}}, \mnras, 515, 1871
+
+\bibitem[{{Riseley} {et~al.}(2022{\natexlab{b}}){Riseley}, {Rajpurohit}, {Loi},
+  {Botteon}, {Timmerman}, {Biava}, {Bonafede}, {Bonnassieux}, {Brunetti},
+  {En{\ss}lin}, {Di Gennaro}, {Ignesti}, {Shimwell}, {Stuardi}, {Vernstrom}, \&
+  {van Weeren}}]{2022MNRAS.512.4210R}
+{Riseley}, C.~J., {Rajpurohit}, K., {Loi}, F., {et~al.} 2022{\natexlab{b}},
+  \mnras, 512, 4210
+
+\bibitem[{{Shimwell} {et~al.}(2022){Shimwell}, {Hardcastle}, {Tasse}, {Best},
+  {R{\"o}ttgering}, {Williams}, {Botteon}, {Drabent}, {Mechev}, {Shulevski},
+  {van Weeren}, {Bester}, {Br{\"u}ggen}, {Brunetti}, {Callingham}, {Chy{\.z}y},
+  {Conway}, {Dijkema}, {Duncan}, {de Gasperin}, {Hale}, {Haverkorn}, {Hugo},
+  {Jackson}, {Mevius}, {Miley}, {Morabito}, {Morganti}, {Offringa}, {Oonk},
+  {Rafferty}, {Sabater}, {Smith}, {Schwarz}, {Smirnov}, {O'Sullivan},
+  {Vedantham}, {White}, {Albert}, {Alegre}, {Asabere}, {Bacon}, {Bonafede},
+  {Bonnassieux}, {Brienza}, {Bilicki}, {Bonato}, {Calistro Rivera}, {Cassano},
+  {Cochrane}, {Croston}, {Cuciti}, {Dallacasa}, {Danezi}, {Dettmar}, {Di
+  Gennaro}, {Edler}, {En{\ss}lin}, {Emig}, {Franzen}, {Garc{\'\i}a-Vergara},
+  {Grange}, {G{\"u}rkan}, {Hajduk}, {Heald}, {Heesen}, {Hoang}, {Hoeft},
+  {Horellou}, {Iacobelli}, {Jamrozy}, {Jeli{\'c}}, {Kondapally}, {Kukreti},
+  {Kunert-Bajraszewska}, {Magliocchetti}, {Mahatma}, {Ma{\l}ek}, {Mandal},
+  {Massaro}, {Meyer-Zhao}, {Mingo}, {Mostert}, {Nair}, {Nakoneczny},
+  {Nikiel-Wroczy{\'n}ski}, {Orr{\'u}}, {Pajdosz-{\'S}mierciak}, {Pasini},
+  {Prandoni}, {van Piggelen}, {Rajpurohit}, {Retana-Montenegro}, {Riseley},
+  {Rowlinson}, {Saxena}, {Schrijvers}, {Sweijen}, {Siewert}, {Timmerman},
+  {Vaccari}, {Vink}, {West}, {Wo{\l}owska}, {Zhang}, \&
+  {Zheng}}]{2022AA...659A...1S}
+{Shimwell}, T.~W., {Hardcastle}, M.~J., {Tasse}, C., {et~al.} 2022, \aap, 659,
+  A1
+
 \bibitem[{{Shimwell} {et~al.}(2019){Shimwell}, {Tasse}, {Hardcastle}, {Mechev},
   {Williams}, {Best}, {R{\"o}ttgering}, {Callingham}, {Dijkema}, {de Gasperin},
   {Hoang}, {Hugo}, {Mirmont}, {Oonk}, {Prandoni}, {Rafferty}, {Sabater},
@@ -93,6 +221,22 @@
   {Varenius}, {Webster}, \& {Wilber}}]{2019AA...622A...1S}
 {Shimwell}, T.~W., {Tasse}, C., {Hardcastle}, M.~J., {et~al.} 2019, \aap, 622,
   A1
+
+\bibitem[{{Taffoni} {et~al.}(2024){Taffoni}, {Becciani}, {Bonafede},
+  {Bonnassieux}, {Brunetti}, {Brienza}, {Gheller}, {Russo}, \&
+  {Vitello}}]{2024ASPC..535..397T}
+{Taffoni}, G., {Becciani}, U., {Bonafede}, A., {et~al.} 2024, in Astronomical
+  Society of the Pacific Conference Series, Vol. 535, Astronomical Society of
+  the Pacific Conference Series, ed. B.~V. {Hugo}, R.~{Van Rooyen}, \& O.~M.
+  {Smirnov}, 397
+
+\bibitem[{{Vacca} {et~al.}(2022){Vacca}, {Shimwell}, {Perley}, {Govoni},
+  {Murgia}, {Feretti}, {Giovannini}, {Loi}, {Carretti}, {Cova}, {Gastaldello},
+  {Girardi}, {En{\ss}lin}, {Akamatsu}, {Bonafede}, {Bonnassieux}, {Boschin},
+  {Botteon}, {Brunetti}, {Br{\"u}ggen}, {Finoguenov}, {Hoang}, {Iacobelli},
+  {Orr{\'u}}, {Paladino}, {R{\"o}ttgering}, {van Weeren}, {Vitello}, \&
+  {Wittor}}]{2022MNRAS.511.3389V}
+{Vacca}, V., {Shimwell}, T., {Perley}, R.~A., {et~al.} 2022, \mnras, 511, 3389
 
 \bibitem[{{van Weeren} {et~al.}(2021){van Weeren}, {Shimwell}, {Botteon},
   {Brunetti}, {Br{\"u}ggen}, {Boxelaar}, {Cassano}, {Di Gennaro},

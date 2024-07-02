@@ -1,51 +1,51 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: BonnassieuxPublications.aux
 The style file: aa.bst
 Database file #1: biblio.bib
-Repeated entry---line 127 of file biblio.bib
+Repeated entry---line 199 of file biblio.bib
  : @article{2022AA...657A...2R
  :                            ,
 I'm skipping whatever remains of this entry
-You've used 13 entries,
+You've used 29 entries,
             2947 wiz_defined-function locations,
-            730 strings with 12416 characters,
-and the built_in function-call counts, 17865 in all, are:
-= -- 1269
-> -- 2676
-< -- 0
-+ -- 898
-- -- 882
-* -- 1784
-:= -- 3380
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 346
-chr.to.int$ -- 10
-cite$ -- 13
-duplicate$ -- 236
-empty$ -- 352
-format.name$ -- 910
-if$ -- 3454
-int.to.chr$ -- 4
+            825 strings with 24755 characters,
+and the built_in function-call counts, 46792 in all, are:
+= -- 3275
+> -- 7326
+< -- 1
++ -- 2454
+- -- 2421
+* -- 4710
+:= -- 8880
+add.period$ -- 29
+call.type$ -- 29
+change.case$ -- 922
+chr.to.int$ -- 25
+cite$ -- 29
+duplicate$ -- 534
+empty$ -- 777
+format.name$ -- 2482
+if$ -- 9031
+int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 13
-newline$ -- 43
-num.names$ -- 52
-pop$ -- 337
+missing$ -- 28
+newline$ -- 91
+num.names$ -- 117
+pop$ -- 906
 preamble$ -- 1
-purify$ -- 346
+purify$ -- 922
 quote$ -- 0
-skip$ -- 214
+skip$ -- 469
 stack$ -- 0
-substring$ -- 312
-swap$ -- 5
-text.length$ -- 0
+substring$ -- 641
+swap$ -- 15
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 117
+type$ -- 261
 warning$ -- 0
-while$ -- 52
+while$ -- 117
 width$ -- 0
-write$ -- 132
+write$ -- 292
 (There was 1 error message)
